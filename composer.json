@@ -1,0 +1,16 @@
+{
+  "name": "wassy123/phppohoda",
+  "description": "Pohoda library for import/export pohoda xml files",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dominik Voda",
+      "email": "d.voda94@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["PHPPohoda/"]
+  }
+}
